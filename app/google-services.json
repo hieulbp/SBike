@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "116009013721",
+    "firebase_url": "https://sbike-1521638662082.firebaseio.com",
+    "project_id": "sbike-1521638662082",
+    "storage_bucket": "sbike-1521638662082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116009013721:android:a4520a8795b048e9",
+        "android_client_info": {
+          "package_name": "sbike.hieulbp.com.sbike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116009013721-jl1fpm6ko4io68ehuu9r89nfm2qvj0ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd8bqzgXF9NorKtNrvQC_YkXelTvmfriY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

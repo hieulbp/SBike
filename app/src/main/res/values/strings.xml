@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SBike</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api">AIzaSyDdrNdC2sIbOYQirRIHthf1_VIcgYEDuk0</string>
+</resources>
